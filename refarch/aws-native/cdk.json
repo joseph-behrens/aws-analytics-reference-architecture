@@ -7,14 +7,14 @@
     "EnableDWH": "true",
     "EnableDataviz": "true",
     "EnableStreaming": "true",
-    "EnableCICD": "false",
+    "EnableCICD": "true",
     "CICDParameters": {
-      "RepositoryName": "<REPOSITORY_NAME>",
-      "RepositoryBranch": "<REPOSITORY_BRANCH>",
-      "ConnectionArn": "<CONNECTION_ARN>"
+      "RepositoryName": "joseph-behrens/aws-analytics-reference-architecture",
+      "RepositoryBranch": "main",
+      "ConnectionArn": "arn:aws:codestar-connections:us-east-1:333489672193:connection/538ca119-803b-4da9-ad69-e00cd171c845"
     },
-    "QuickSightUsername": "<QUICKSIGHT_USERNAME>",
-    "QuickSightIdentityRegion": "<QUICKSIGHT_IDENTITY_REGION>",
+    "QuickSightUsername": "josepbeh-datadevops",
+    "QuickSightIdentityRegion": "us-east-1",
     "EnableDeploymentTracking": "true"
   }
 }
