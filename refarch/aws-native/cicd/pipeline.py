@@ -45,7 +45,7 @@ class PipelineStack(Stack):
                                                     'cd refarch/aws-native',
                                                     'pip install -r requirements.txt',
                                                     'which npx',
-                                                    'npm install -g aws-cdk@2.51.0',
+                                                    'npm install -g aws-cdk@latest',
                                                     'cdk synth'
                                                 ],
                                                 primary_output_directory='refarch/aws-native/cdk.out'),
