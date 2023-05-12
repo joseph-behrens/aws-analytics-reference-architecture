@@ -2,32 +2,29 @@
   "CICD": {
     "name": "cicd",
     "region": "us-east-1",
-    "account": "333489672193"
+    "account": "629874517739"
   },
   "DEV": {
     "name": "dev",
     "region": "us-east-1",
-    "account": "333489672193"
+    "account": "629874517739"
   },
   "PROD": {
     "name": "prod",
     "region": "PRODus-east-1",
-    "account": "333489672193"
+    "account": "629874517739"
   },
   "availability-zones:account=us-east-1": [
     "us-east-1a",
     "us-east-1b",
     "us-east-1c"
   ],
-  "availability-zones:account=333489672193:region=us-east-1": [
+  "availability-zones:account=629874517739:region=us-east-1": [
     "us-east-1a",
     "us-east-1b",
     "us-east-1c",
     "us-east-1d",
     "us-east-1e",
     "us-east-1f"
-  ],
-  "acknowledged-issue-numbers": [
-    25356
   ]
 }

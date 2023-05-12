@@ -11,9 +11,9 @@
     "CICDParameters": {
       "RepositoryName": "joseph-behrens/aws-analytics-reference-architecture",
       "RepositoryBranch": "main",
-      "ConnectionArn": "arn:aws:codestar-connections:us-east-1:333489672193:connection/538ca119-803b-4da9-ad69-e00cd171c845"
+      "ConnectionArn": "arn:aws:codestar-connections:us-east-1:629874517739:connection/5bd86899-ef3b-4549-a016-1a6ecdca75d6"
     },
-    "QuickSightUsername": "josepbeh-datadevops",
+    "QuickSightUsername": "josepbeh-datadops",
     "QuickSightIdentityRegion": "us-east-1",
     "EnableDeploymentTracking": "true"
   }
